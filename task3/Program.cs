@@ -12,3 +12,4 @@ else
 
     System.Console.WriteLine("этот день недели не является выходным");
 }
+
